@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   background-color: #f2f1ed;
-  font-family: 'Patua One', sans-serif;
+  font-family: "Patua One", sans-serif;
   line-height: 1.5;
 }
 
@@ -14,6 +14,7 @@ img {
 }
 
 h1, h2 {
+  font-family: "Patua One", sans-serif;
   color: #5d8432;
   text-transform: uppercase;
 }
@@ -23,8 +24,8 @@ figcaption {
   font-style: italic;
   text-align: center;
 }
-
 nav {
+  font-family: "Patua One", sans-serif;
   font-size: 1.25rem;
   font-weight: bold;
 }
